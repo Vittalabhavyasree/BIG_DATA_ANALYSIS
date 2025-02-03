@@ -27,3 +27,23 @@ In addition to the technical requirements, it's essential to consider the busine
 The use of PySpark or Dask for big data analysis offers several advantages, including scalability, flexibility, and efficiency. These tools can handle massive datasets and provide a scalable solution for big data analysis. They also offer a flexible and efficient way to process large datasets, using a variety of algorithms and data structures. By leveraging the power of PySpark or Dask, data analysts and scientists can gain insights from large datasets that would be impossible to analyze using traditional tools.
 
 In conclusion, the task of big data analysis using PySpark or Dask requires a combination of technical skills, business acumen, and analytical expertise. The analysis should be driven by a clear understanding of the business problem or opportunity, and the insights gained should be actionable and meaningful. By leveraging the power of PySpark or Dask, data analysts and scientists can gain insights from large datasets that would be impossible to analyze using traditional tools. The final deliverable should be a script or notebook that demonstrates the big data analysis workflow, including data preprocessing, analysis, and visualization, and provides a clear narrative of the insights gained and their implications.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/27c23ac3-4c2b-4e45-b68e-0e76c18550f7)
+
+![Image](https://github.com/user-attachments/assets/43e90605-b918-4b0c-b4e0-b45c7cc8c556)
+
+![Image](https://github.com/user-attachments/assets/ea03a06d-9802-4a5d-abc8-400a032449ac)
+
+![Image](https://github.com/user-attachments/assets/8b2ae141-26c7-4455-97c4-758fa0ce5c75)
+
+![Image](https://github.com/user-attachments/assets/3c4a3861-72ec-4beb-a523-174570085ca8)
+
+![Image](https://github.com/user-attachments/assets/0f8aa413-cd4f-4e05-ace0-481b3ff3a29c)
+
+![Image](https://github.com/user-attachments/assets/280ef9a3-edc2-4a48-9213-2214f07404e3)
+
+![Image](https://github.com/user-attachments/assets/5376a258-498a-4fc0-9ece-c7befbe8ef92)
+
+![Image](https://github.com/user-attachments/assets/b1e0af50-a84e-473c-b611-fd411a76194b)

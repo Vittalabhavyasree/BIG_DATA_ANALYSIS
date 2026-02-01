@@ -28,7 +28,7 @@ The use of PySpark or Dask for big data analysis offers several advantages, incl
 
 In conclusion, the task of big data analysis using PySpark or Dask requires a combination of technical skills, business acumen, and analytical expertise. The analysis should be driven by a clear understanding of the business problem or opportunity, and the insights gained should be actionable and meaningful. By leveraging the power of PySpark or Dask, data analysts and scientists can gain insights from large datasets that would be impossible to analyze using traditional tools. The final deliverable should be a script or notebook that demonstrates the big data analysis workflow, including data preprocessing, analysis, and visualization, and provides a clear narrative of the insights gained and their implications.
 
-#OUTPUT
+# OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/27c23ac3-4c2b-4e45-b68e-0e76c18550f7)
 
